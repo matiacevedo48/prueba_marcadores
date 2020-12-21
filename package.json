@@ -1,0 +1,7 @@
+{
+  "name": "prueba_marcadores",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
