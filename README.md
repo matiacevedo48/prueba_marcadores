@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Prueba Marcadores
+En el punto 1 se pide un archivo explicando las relaciones entre modelos, el cual está presente en el directorio principal del proyecto realiado con la aplicación Draw.io.
+En el punto 6 se pide un gráfico de torta que muestre la distribución de los tipos de marcadores, el cual está presente en la vista de Kinds, a la cual se puede acceder desde cualquier otra vista. Esta vista donde está el gráfico es localhost:3000/kinds.
